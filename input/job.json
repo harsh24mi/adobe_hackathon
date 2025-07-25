@@ -1,0 +1,9 @@
+{
+  "persona": {
+    "role": "PhD Researcher",
+    "description": "A PhD Researcher in Computational Biology with expertise in machine learning applications. They are focused on discovering novel therapeutic compounds."
+  },
+  "job_to_be_done": {
+    "task": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks for using Graph Neural Networks in drug discovery."
+  }
+}

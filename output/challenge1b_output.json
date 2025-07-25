@@ -1,0 +1,376 @@
+{
+    "metadata": {
+        "input_documents": [
+            "basic-text.pdf",
+            "french.pdf",
+            "IntroductiontoResearch.pdf",
+            "NHK WORLD-JAPAN.pdf"
+        ],
+        "persona": "PhD Researcher",
+        "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks for using Graph Neural Networks in drug discovery.",
+        "processing_timestamp": "2025-07-25T07:00:35Z"
+    },
+    "extracted_section": [
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 1,
+            "section_title": "Content from Page 1",
+            "importance_rank": 1
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 21,
+            "section_title": "Content from Page 21",
+            "importance_rank": 2
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 11,
+            "section_title": "Content from Page 11",
+            "importance_rank": 3
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 29,
+            "section_title": "Content from Page 29",
+            "importance_rank": 4
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 3,
+            "section_title": "Content from Page 3",
+            "importance_rank": 5
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 5,
+            "section_title": "Content from Page 5",
+            "importance_rank": 6
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 7,
+            "section_title": "Content from Page 7",
+            "importance_rank": 7
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 6,
+            "section_title": "Content from Page 6",
+            "importance_rank": 8
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 26,
+            "section_title": "Content from Page 26",
+            "importance_rank": 9
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 16,
+            "section_title": "Content from Page 16",
+            "importance_rank": 10
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 17,
+            "section_title": "Content from Page 17",
+            "importance_rank": 11
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 25,
+            "section_title": "Content from Page 25",
+            "importance_rank": 12
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 22,
+            "section_title": "Content from Page 22",
+            "importance_rank": 13
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 14,
+            "section_title": "Content from Page 14",
+            "importance_rank": 14
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 23,
+            "section_title": "Content from Page 23",
+            "importance_rank": 15
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 13,
+            "section_title": "Content from Page 13",
+            "importance_rank": 16
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 27,
+            "section_title": "Content from Page 27",
+            "importance_rank": 17
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 15,
+            "section_title": "Content from Page 15",
+            "importance_rank": 18
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 4,
+            "section_title": "Content from Page 4",
+            "importance_rank": 19
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 19,
+            "section_title": "Content from Page 19",
+            "importance_rank": 20
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 24,
+            "section_title": "Content from Page 24",
+            "importance_rank": 21
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 21,
+            "section_title": "Content from Page 21",
+            "importance_rank": 22
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 18,
+            "section_title": "Content from Page 18",
+            "importance_rank": 23
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 16,
+            "section_title": "Content from Page 16",
+            "importance_rank": 24
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 20,
+            "section_title": "Content from Page 20",
+            "importance_rank": 25
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 2,
+            "section_title": "Content from Page 2",
+            "importance_rank": 26
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 13,
+            "section_title": "Content from Page 13",
+            "importance_rank": 27
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 20,
+            "section_title": "Content from Page 20",
+            "importance_rank": 28
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 18,
+            "section_title": "Content from Page 18",
+            "importance_rank": 29
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 12,
+            "section_title": "Content from Page 12",
+            "importance_rank": 30
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 17,
+            "section_title": "Content from Page 17",
+            "importance_rank": 31
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 11,
+            "section_title": "Content from Page 11",
+            "importance_rank": 32
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 9,
+            "section_title": "Content from Page 9",
+            "importance_rank": 33
+        },
+        {
+            "document": "basic-text.pdf",
+            "page_number": 1,
+            "section_title": "Content from Page 1",
+            "importance_rank": 34
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 8,
+            "section_title": "Content from Page 8",
+            "importance_rank": 35
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 22,
+            "section_title": "Content from Page 22",
+            "importance_rank": 36
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 28,
+            "section_title": "Content from Page 28",
+            "importance_rank": 37
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 19,
+            "section_title": "Content from Page 19",
+            "importance_rank": 38
+        },
+        {
+            "document": "NHK WORLD-JAPAN.pdf",
+            "page_number": 5,
+            "section_title": "Content from Page 5",
+            "importance_rank": 39
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 7,
+            "section_title": "Content from Page 7",
+            "importance_rank": 40
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 2,
+            "section_title": "Content from Page 2",
+            "importance_rank": 41
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 8,
+            "section_title": "Content from Page 8",
+            "importance_rank": 42
+        },
+        {
+            "document": "NHK WORLD-JAPAN.pdf",
+            "page_number": 2,
+            "section_title": "Content from Page 2",
+            "importance_rank": 43
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 23,
+            "section_title": "Content from Page 23",
+            "importance_rank": 44
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 14,
+            "section_title": "Content from Page 14",
+            "importance_rank": 45
+        },
+        {
+            "document": "NHK WORLD-JAPAN.pdf",
+            "page_number": 1,
+            "section_title": "Content from Page 1",
+            "importance_rank": 46
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 15,
+            "section_title": "Content from Page 15",
+            "importance_rank": 47
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 9,
+            "section_title": "Content from Page 9",
+            "importance_rank": 48
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 12,
+            "section_title": "Content from Page 12",
+            "importance_rank": 49
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 3,
+            "section_title": "Content from Page 3",
+            "importance_rank": 50
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 5,
+            "section_title": "Content from Page 5",
+            "importance_rank": 51
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 1,
+            "section_title": "Content from Page 1",
+            "importance_rank": 52
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 6,
+            "section_title": "Content from Page 6",
+            "importance_rank": 53
+        },
+        {
+            "document": "NHK WORLD-JAPAN.pdf",
+            "page_number": 4,
+            "section_title": "Content from Page 4",
+            "importance_rank": 54
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 24,
+            "section_title": "Content from Page 24",
+            "importance_rank": 55
+        },
+        {
+            "document": "NHK WORLD-JAPAN.pdf",
+            "page_number": 3,
+            "section_title": "Content from Page 3",
+            "importance_rank": 56
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 10,
+            "section_title": "Content from Page 10",
+            "importance_rank": 57
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 25,
+            "section_title": "Content from Page 25",
+            "importance_rank": 58
+        },
+        {
+            "document": "french.pdf",
+            "page_number": 4,
+            "section_title": "Content from Page 4",
+            "importance_rank": 59
+        },
+        {
+            "document": "IntroductiontoResearch.pdf",
+            "page_number": 10,
+            "section_title": "Content from Page 10",
+            "importance_rank": 60
+        }
+    ],
+    "sub_section_analysis": []
+}

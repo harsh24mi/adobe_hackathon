@@ -1,0 +1,15 @@
+{
+    "title": "Sample Document for PDF Testing",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "Introduction",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Text Formatting Examples",
+            "page": 1
+        }
+    ]
+}

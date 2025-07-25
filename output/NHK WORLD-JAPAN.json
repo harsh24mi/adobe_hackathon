@@ -1,0 +1,25 @@
+{
+    "title": "News",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "Most Accessed",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Featured",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "App",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Download the app and access the",
+            "page": 4
+        }
+    ]
+}
